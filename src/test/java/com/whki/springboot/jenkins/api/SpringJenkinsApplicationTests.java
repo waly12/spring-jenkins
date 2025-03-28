@@ -18,6 +18,7 @@ class SpringJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing...");
+		logger.info("Test case executing... 123456789");
 		assertEquals(true, true);
 	}
 
